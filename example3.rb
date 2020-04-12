@@ -7,4 +7,13 @@ def easter
 
 end
 
-easter 
+easter
+
+def wester
+  puts "Happy Westert, Everyone !"
+  puts "Happy Westert, Everyone !"
+  puts "Happy Westert, Everyone !"
+  puts "Happy Westert, Everyone !"
+end
+
+wester
